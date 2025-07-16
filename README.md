@@ -6,4 +6,4 @@ This project simulates the three-body problem and generates videos showing the m
 
 Here is an example of the simulation:
 
-![Three-Body Problem](media/three_body_problem_271.mp4)
+![Three-Body Problem](media/three_body_problem_271.gif)
